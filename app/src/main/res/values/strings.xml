@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserInterFace</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="nav_profile">My Profile</string>
+    <string name="nav_login">Log out</string>
+
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="username">Username</string>
+    <string name="status">Online</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
